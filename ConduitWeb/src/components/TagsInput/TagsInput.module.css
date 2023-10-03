@@ -1,0 +1,12 @@
+.tagButton {
+    width: 6rem;
+}
+
+.tagButton:hover {
+    background-color: #fff !important;
+    color: var(--bs-primary) !important;
+}
+
+.deleteButton {
+    width: 1.75rem;
+}

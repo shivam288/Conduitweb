@@ -1,0 +1,7 @@
+html, body, #root {
+    height: 100%;
+}
+
+.full-height {
+    height: calc(100vh - 56px);
+}
